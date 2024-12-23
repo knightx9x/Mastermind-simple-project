@@ -1,0 +1,18 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒğÅğJ$dd88d1a8-73a9-4b4b-a06b-cba49943ad6e
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿJ$a3dcc42c-9c4d-487b-850b-d9557c39d276
+q
+java:S1854"5Remove this useless assignment to local variable "y".(è¯ÙâJ$53b4845a-f08b-41f0-9a4f-e2f4e94013b1
+q
+java:S1854"5Remove this useless assignment to local variable "y".(¿ÀÚşJ$b2277146-c348-4adb-9504-117630b7e344
+q
+java:S1854"5Remove this useless assignment to local variable "x".(¿ÀÚşJ$74f67260-2555-455f-8069-4c675bf88357
+v
+java:S1854":Remove this useless assignment to local variable "$myvar".(ƒğÅğJ$b29a8c8a-150e-45cb-8e0d-4c3838ed2f6d
+[
+java:S1659"Declare "y" on a separate line.(¿ÀÚşJ$eda2b6a0-2fd1-4749-8876-cced33bd5a1a
+g
+java:S1481"+Remove this unused "$myvar" local variable.(ƒğÅğJ$942b56f4-38b4-4ecd-bd7e-1cd3bf5a8ec1
+b
+java:S1481"&Remove this unused "y" local variable.(¿ÀÚşJ$a4077003-d91c-43e9-b0b4-33af2cb28e18
+k	java:S106"+Replace this use of System.out by a logger.(µÏ…èùÿÿÿÿJ$303676ad-24a1-4aea-bf97-bfb48fc386fe
